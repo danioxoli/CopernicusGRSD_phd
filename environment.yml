@@ -10,8 +10,8 @@ dependencies:
   - matplotlib
   - geemap
   - ipywidgets
+  - netCDF4
   - pip
   - pip:
     - lxml
     - cdsapi
-    - netCDF4
